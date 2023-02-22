@@ -1,5 +1,5 @@
 //to add two integer
-/*   
+   
 
 #include<stdio.h>
 int main()
@@ -256,7 +256,7 @@ int main()
  	
  }
  
-  */
+  
  
  // vowel or consonant or specail symbol or  digit
  #include<stdio.h>
